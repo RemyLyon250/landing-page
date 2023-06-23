@@ -1,0 +1,16 @@
+.logout-container {
+    text-align: center;
+  }
+  
+  .logout-link {
+    color: #ffffff;
+    background-color: #ff0000;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .logout-link:hover {
+    background-color: #cc0000;
+  }
+  
